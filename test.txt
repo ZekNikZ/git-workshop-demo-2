@@ -1,4 +1,3 @@
-Matthew
 foobar
 second line
 third line
